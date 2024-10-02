@@ -1,0 +1,2025 @@
+.navbar{
+    background-color:bisque;
+    position: -webkit-sticky;
+position: sticky;
+top: 0;
+    }
+    .navbar-nav{
+    margin-left:440px;
+    }
+    .nav-item{
+    margin-left:40px;
+    } 
+    .nav-btn{
+    width:100px;
+    height:30px;
+    border:none;
+    border:1px solid black;
+    margin-top:5px;
+    cursor: pointer;
+    }
+    .nav-link{
+    color:blue;
+    }
+    .nav-link:hover{
+    color:red;
+    }
+    .nav-btn a{
+      text-decoration: none;
+      color: black;
+    }
+    @media only screen and (max-width: 1024px) {
+      .navbar-nav{
+    margin-left:200px;
+    }
+    .nav-item{
+    margin-left:30px;
+    } 
+    .contt{
+      margin-top: -260px;
+    }
+     .ft1{
+      font-size: 50px;
+     } 
+     .ft{
+      font-size: 15px;
+      line-height: 20px;
+     }
+     .logo{
+      width: 300px;
+      height: 300px;
+      margin-top: 20px;
+      margin-left: 600px;
+     }
+    .tools1{
+    width: 40%;
+    height: 500px;
+      margin-left: 60px;
+      margin-top: 170px;
+    }
+    .T1{
+      font-size: 20px;
+      margin-left: 45px;
+    }
+    .tools1 p{
+      font-size: 17px;
+    }
+    .tools2{
+      margin-left: 550px;
+    }
+    .tools2{
+      width: 40%;
+      height: 500px;
+
+    }
+    .T2{
+      font-size:20px ;
+      margin-left: 45px;
+    }
+    .tools2 p{
+      font-size: 17px;
+    }
+    .toolbtn2{
+      margin-top: 40px;
+    }
+    .tools33{
+      width: 40%;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 60px;
+
+    }
+    .T3{
+      font-size:20px ;
+      margin-left: 30px;
+    }
+    .tools33 p{
+      font-size: 17px;
+    }
+    .tool4{
+      width: 40%;
+      height: 500px;
+      margin-top: -500px;
+      margin-left: 560px;
+
+    }
+    .T4{
+      font-size:20px ;
+      margin-left: 30px;
+    }
+    .tool4 p{
+      font-size: 17px;
+    }
+    .toolbtn4{
+      margin-top: 53px;
+    }
+    .tool5{
+      width: 40%;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 60px;
+
+    }
+    .T5{
+      font-size:20px ;
+      margin-left: 20px;
+    }
+    .tool5 p{
+      font-size: 17px;
+    }
+    .tool6{
+      width: 40%;
+      height: 500px;
+      margin-left: 550px;
+
+    }
+    .T6{
+      font-size:20px ;
+      margin-left: 30px;
+    }
+    .tool6 p{
+      font-size: 17px;
+    }
+    .toolbtn6{
+      margin-top: 50px;
+    }
+    .website{
+      height: 1000px;
+    }
+    .wb1{
+      visibility: hidden;
+    }
+    .wb2{
+      margin-left: 150px;
+      width: 25%;
+    height: 300px;
+    }
+    .wb3{
+      width: 25%;
+    height: 300px;
+      margin-left: 580px;
+    }
+    .wb3 h2{
+      margin-left: 75px;
+    }
+    .B2{
+      margin-top: -10px;
+    }
+    .wb4{
+      margin-left: 150px;
+      margin-top: 130px;
+      width: 25%;
+    height: 300px;
+    }
+    .wb4 h2{
+      margin-left: 70px;
+    }
+    .wb4 p{
+      margin-top: 20px;
+    }
+    .B3{
+      margin-top: 25px;
+    }
+    .wb5{
+      width: 25%;
+    height: 300px;
+      margin-left: 580px;
+    }
+    .stap1{
+        margin-top: -250px; 
+    }
+    .sp1{
+      font-size: 25px;
+    }
+    .sp2{
+      font-size: 12px;
+    }
+    .web1{
+      width: 200px;
+      height: 300px;
+     margin-left: 600px;
+     margin-top: 200px; 
+    
+    }
+    .stap2{
+    margin-left: 520px;
+    margin-top: -300px;
+    
+   }
+  
+   .sp3{
+    font-size: 25px;
+   }
+   .sp4{
+    font-size: 12px;
+   }
+   .web2{
+    width: 200px;
+    height: 350px;
+    margin-left: 100px;
+   }
+   .stap3{
+    margin-top: -200px;
+   
+   }
+   .sp5{
+    font-size: 25px;
+   }
+   .sp6{
+    font-size: 12px;
+   }
+   .web3{
+width: 300px;
+height: 300px ;
+   }
+   .stap4{
+    margin-left: 550px;
+    margin-top: -200px;
+   
+   }
+   .sp7{
+    font-size: 25px;
+   }
+   .sp8{
+    font-size: 12px;
+   }
+   .web4{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+   }
+   .web5{
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+   }
+   .v2{
+    margin-left: 600px;
+    margin-top: -280px;
+   }
+   .design{
+    visibility: hidden;
+   }
+   .ravindra{
+    margin-left: 70px;
+    margin-top: 50px;
+   }
+
+   .ref{
+    margin-left: 650px;
+    margin-top: -320px;
+   }
+   .star-12{
+    visibility: hidden;
+   }
+    }
+    @media only screen and (max-width: 745px) {
+      .navbar-nav{
+    margin-left:100px;
+    }
+    .nav-item{
+    margin-left:15px;
+    font-size: 12px;
+    } 
+    .contt{
+      margin-top: -590px;
+    }
+     .ft1{
+      font-size: 50px;
+     } 
+     .ft{
+      font-size: 15px;
+      line-height: 20px;
+     }
+     .logo{
+      width: 300px;
+      height: 300px;
+      margin-top: 350px;
+      margin-left: 200px;
+     }
+    .tools1{
+    width: 40%;
+    height: 350px;
+      margin-left: 50px;
+      margin-top: 450px;
+    }
+    .T1{
+      font-size: 15px;
+      margin-left: 25px;
+    }
+    .tools1 p{
+      font-size: 11px;
+    }
+    .im1{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .toolbtn1{
+      width: 130px;
+      height: 30px;
+      margin-top: 40px;
+    }
+    .tools2{
+      width: 40%;
+      height: 350px;
+      margin-top: -350px;
+      margin-left: 400px;
+    }
+    .tools2 h2{
+      font-size: 15px;
+      margin-left: 15px;
+
+    }
+    .tools2 p{
+      font-size: 12px;
+    }
+    .im2{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .toolbtn2{
+      width: 130px;
+      height: 30px;
+      margin-top: 20px;
+    }
+    .tools33{
+      width: 40%;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 60px;
+
+    }
+    .im3{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .T3{
+      font-size:15px ;
+      margin-left: -5px;
+    }
+    .tools33 p{
+      font-size: 12px;
+    }
+    .toolbtn3{
+      width: 130px;
+      height: 30px;
+    }
+    .tool4{
+      width: 40%;
+      height: 350px;
+      margin-top: -350px;
+      margin-left: 400px;
+
+    }
+    .im4{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .T4{
+      font-size:15px ;
+      margin-left: -10px;
+    }
+    .tool4 p{
+      font-size: 12px;
+    }
+    .toolbtn4{
+      width: 130px;
+      height: 30px;
+      margin-top: 30px;
+    }
+    .tool5{
+      width: 40%;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 60px;
+
+    }
+    .im5{
+      width: 100px;
+      height: 50px;
+      margin-left: 105px;
+      margin-top: 20px;
+    }
+    .T5{
+      font-size:15px ;
+      margin-left: -10px;
+    }
+    .tool5 p{
+      font-size: 12px;
+    }
+    .toolbtn5{
+      width: 130px;
+      height: 30px;
+    }
+    .tool6{
+      width: 40%;
+      height: 350px;
+      margin-left: 400px;
+      margin-top: -340px;
+    }
+    .im6{
+      width: 50px;
+      height: 50px;
+      margin-left: 120px;
+      margin-top: 20px;
+    }
+    .T6{
+      font-size:15px ;
+      margin-left: -6px;
+    }
+    .tool6 p{
+      font-size: 12px;
+    }
+    .toolbtn6{
+      width: 130px;
+      height: 30px;
+      margin-top: 50px;
+    }
+    .website{
+      height: 1000px;
+    }
+    .wb1{
+      visibility: hidden;
+    }
+    .wb2{
+      margin-left: 80px;
+      width: 250px;
+    height: 300px;
+    }
+    .wb2 h2{
+      font-size: 15px;
+    }
+   
+    .wb3{
+      width: 250px;
+    height: 300px;
+      margin-left: 420px;
+    }
+    .wb3 h2{
+       font-size: 15px;
+    }
+    .B2{
+      margin-top: -10px;
+    }
+    .wb4{
+      margin-left: 80px;
+      margin-top: 130px;
+      width: 250px;
+    height: 300px;
+    }
+    .wb4 h2{
+       font-size: 15px;
+       margin-left: 80px;
+    }
+    .wb4 p{
+      margin-top: 30px;
+    }
+    .B3{
+      margin-top: 15px;
+    }
+    .wb5{
+      width: 250px;
+    height: 300px;
+      margin-left: 420px;
+    }
+    .wb5 h2{
+       font-size: 15px;
+    }
+    .stap1{
+        margin-top: -200px; 
+    }
+    .sp1{
+      font-size: 25px;
+    }
+    .sp2{
+      font-size: 12px;
+    }
+    .web1{
+      width: 150px;
+      height: 200px;
+     margin-left: 500px;
+     margin-top: 100px;
+   
+    
+    }
+    .stap2{
+    margin-left: 320px;
+    margin-top: -220px;
+    
+   }
+   .sp3{
+    font-size: 25px;
+   }
+   .sp4{
+    font-size: 12px;
+   }
+   .web2{
+    width: 150px;
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 200px;
+   }
+   .stap3{
+    margin-top: -200px;
+   
+   }
+   .sp5{
+    font-size: 25px;
+   }
+   .sp6{
+    font-size: 12px;
+   }
+   .web3{
+width: 150px;
+height: 200px ;
+margin-left: 500px;
+margin-top: 100px;
+   }
+   .stap4{
+    margin-left: 300px;
+    margin-top: -200px;
+   
+   }
+   .sp7{
+    font-size: 25px;
+   }
+   .sp8{
+    font-size: 12px;
+   }
+   .web4{
+    width: 150px;
+    height: 200px;
+    margin-left: 50px;
+   }
+   .stap5{
+    margin-top: -150px;
+   }
+   .web5{
+    width: 150px;
+    height: 200px;
+    margin-left: 500px;
+    margin-top: 100px;
+   }
+   .v12{
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+   }
+   .v2{
+    margin-left: 400px;
+    margin-top: -200px;
+   }
+   .v2 h2{
+    font-size: 20px;
+   }
+   .v2 p{
+    font-size: 12px;
+   }
+   .design{
+    visibility: hidden;
+   }
+   .end{
+     height: 750px;
+   }
+   .ravindra{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 50px;
+   }
+   .kirade{
+    font-size: 20px;
+    margin-left:100px;
+    margin-top: -40px;
+   }
+   .into{
+    margin-left: 100px;
+   }
+   .kirade1{
+    margin-left: 100px;
+   }
+   .icon{
+    margin-left: 100px;
+   }
+   .ref{
+    margin-left: 100px;
+    margin-top: 100px;
+   }
+    }
+    @media only screen and (max-width: 675px) {
+      .navbar-nav{
+    margin-left:60px;
+    }
+    .nav-item{
+    margin-left:15px;
+    font-size: 10px;
+    } 
+    .contt{
+      margin-top: -590px;
+    }
+     .ft1{
+      font-size: 50px;
+     } 
+     .ft{
+      font-size: 15px;
+      line-height: 20px;
+     }
+     .logo{
+      width: 300px;
+      height: 300px;
+      margin-top: 350px;
+      margin-left: 200px;
+     }
+    .tools1{
+    width: 40%;
+    height: 350px;
+      margin-left: 50px;
+      margin-top: 450px;
+    }
+    .T1{
+      font-size: 15px;
+      margin-left: 15px;
+    }
+    .tools1 p{
+      font-size: 11px;
+    }
+    .im1{
+      width: 50px;
+      height: 50px;
+      margin-left: 115px;
+      margin-top: 20px;
+    }
+    .toolbtn1{
+      width: 130px;
+      height: 30px;
+      margin-top: 25px;
+      margin-left: 75px;
+    }
+    .tools2{
+      width: 40%;
+      height: 350px;
+      margin-top: -355px;
+      margin-left: 350px;
+    }
+    .tools2 h2{
+      font-size: 15px;
+      margin-left: 15px;
+
+    }
+    .tools2 p{
+      font-size: 12px;
+    }
+    .im2{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .toolbtn2{
+      width: 130px;
+      height: 30px;
+    }
+    .tools33{
+      width: 40%;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 60px;
+
+    }
+    .im3{
+      width: 50px;
+      height: 50px;
+      margin-left: 116px;
+      margin-top: 20px;
+    }
+    .T3{
+      font-size:15px ;
+      margin-left: -13px;
+    }
+    .tools33 p{
+      font-size: 12px;
+    }
+    .toolbtn3{
+      width: 130px;
+      height: 30px;
+      margin-left: 70px;
+    }
+    .tool4{
+      width: 40%;
+      height: 350px;
+      margin-top: -350px;
+      margin-left: 350px;
+
+    }
+    .im4{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .T4{
+      font-size:15px ;
+      margin-left: -10px;
+    }
+    .tool4 p{
+      font-size: 12px;
+    }
+    .toolbtn4{
+      width: 130px;
+      height: 30px;
+    }
+    .tool5{
+      width: 40%;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 60px;
+
+    }
+    .im5{
+      width: 100px;
+      height: 50px;
+      margin-left: 95px;
+      margin-top: 20px;
+    }
+    .T5{
+      font-size:15px ;
+      margin-left: -25px;
+    }
+    .tool5 p{
+      font-size: 12px;
+    }
+    .toolbtn5{
+      width: 130px;
+      height: 30px;
+      margin-left: 75px;
+    }
+    .tool6{
+      width: 40%;
+      height: 350px;
+      margin-left: 350px;
+      margin-top: -340px;
+    }
+    .im6{
+      width: 50px;
+      height: 50px;
+      margin-left: 120px;
+      margin-top: 20px;
+    }
+    .T6{
+      font-size:15px ;
+      margin-left: -6px;
+    }
+    .tool6 p{
+      font-size: 12px;
+    }
+    .toolbtn6{
+      width: 130px;
+      height: 30px;
+      margin-top: 30px;
+    }
+    .website{
+      height: 1000px;
+    }
+    .wb1{
+      visibility: hidden;
+    }
+    .wb2{
+      margin-left: 50px;
+      width: 250px;
+    height: 300px;
+    }
+    .wb2 h2{
+      font-size: 15px;
+    }
+   
+    .wb3{
+      width: 250px;
+    height: 300px;
+      margin-left: 360px;
+    }
+    .wb3 h2{
+       font-size: 15px;
+    }
+    .B2{
+      margin-top: -10px;
+    }
+    .wb4{
+      margin-left: 50px;
+      margin-top: 130px;
+      width: 250px;
+    height: 300px;
+    }
+    .wb4 h2{
+       font-size: 15px;
+    }
+    .B3{
+      margin-top: -10px;
+    }
+    .wb5{
+      width: 250px;
+    height: 300px;
+      margin-left: 360px;
+    }
+    .wb5 h2{
+       font-size: 15px;
+    }
+    .stap1{
+        margin-top: -200px; 
+    }
+    .sp1{
+      font-size: 25px;
+    }
+    .sp2{
+      font-size: 12px;
+    }
+    .web1{
+      width: 150px;
+      height: 200px;
+     margin-left: 480px;
+     margin-top: 100px;
+   
+    
+    }
+    .stap2{
+    margin-left: 250px;
+    margin-top: -220px;
+    
+   }
+   .sp3{
+    font-size: 25px;
+   }
+   .sp4{
+    font-size: 12px;
+   }
+   .web2{
+    width: 150px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 200px;
+   }
+   .stap3{
+    margin-top: -200px;
+   
+   }
+   .sp5{
+    font-size: 25px;
+   }
+   .sp6{
+    font-size: 12px;
+   }
+   .web3{
+width: 150px;
+height: 200px ;
+margin-left: 480px;
+margin-top: 100px;
+   }
+   .stap4{
+    margin-left: 230px;
+    margin-top: -200px;
+   
+   }
+   .sp7{
+    font-size: 25px;
+   }
+   .sp8{
+    font-size: 12px;
+   }
+   .web4{
+    width: 150px;
+    height: 200px;
+    margin-left: 40px;
+   }
+   .stap5{
+    margin-top: -150px;
+   }
+   .web5{
+    width: 150px;
+    height: 200px;
+    margin-left: 500px;
+    margin-top: 100px;
+   }
+   .v12{
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+   }
+   .v2{
+    margin-left: 350px;
+    margin-top: -200px;
+    
+   }
+   .v2 h2{
+    font-size: 20px;
+   }
+   .v2 p{
+    font-size: 12px;
+   }
+   .design{
+    visibility: hidden;
+   }
+   .end{
+     height: 750px;
+   }
+   .ravindra{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 50px;
+   }
+   .kirade{
+    font-size: 20px;
+    margin-left:100px;
+    margin-top: -40px;
+   }
+   .into{
+    margin-left: 100px;
+   }
+   .kirade1{
+    margin-left: 100px;
+   }
+   .icon{
+    margin-left: 100px;
+   }
+   .ref{
+    margin-left: 100px;
+    margin-top: 100px;
+   }
+    }
+    @media only screen and (max-width: 575px) {
+      .navbar-nav{
+    margin-left:80px;
+    }
+    .nav-item{
+    margin-left:15px;
+    font-size: 10px;
+    } 
+    .contt{
+      margin-top: -590px;
+    }
+     .ft1{
+      font-size: 50px;
+     } 
+     .ft{
+      font-size: 15px;
+      line-height: 20px;
+     }
+     .logo{
+      width: 300px;
+      height: 300px;
+      margin-top: 350px;
+      margin-left: 130px;
+     }
+    .tools1{
+    width: 300px;
+    height: 350px;
+      margin-left: 150px;
+      margin-top: 450px;
+    }
+    .T1{
+      font-size: 15px;
+      margin-left: 15px;
+    }
+    .tools1 p{
+      font-size: 11px;
+    }
+    .im1{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .toolbtn1{
+      width: 130px;
+      height: 30px;
+      margin-top: 25px;
+      margin-left: 80px;
+    }
+    .tools2{
+      width: 300px;
+      height: 350px;
+      margin-top: 50px;
+      margin-left: 150px;
+    }
+    .tools2 h2{
+      font-size: 15px;
+      margin-left: 15px;
+
+    }
+    .tools2 p{
+      font-size: 12px;
+    }
+    .im2{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .toolbtn2{
+      width: 130px;
+      height: 30px;
+    }
+    .tools33{
+      width: 300px;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 150px;
+
+    }
+    .im3{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .T3{
+      font-size:15px ;
+      margin-left: -10px;
+    }
+    .tools33 p{
+      font-size: 12px;
+    }
+    .toolbtn3{
+      width: 130px;
+      height: 30px;
+      margin-left: 80px;
+    }
+    .tool4{
+      width: 300px;
+      height: 350px;
+      margin-top: 50px;
+      margin-left: 150px;
+
+    }
+    .im4{
+      width: 50px;
+      height: 50px;
+      margin-left: 130px;
+      margin-top: 20px;
+    }
+    .T4{
+      font-size:15px ;
+      margin-left: -10px;
+    }
+    .tool4 p{
+      font-size: 12px;
+    }
+    .toolbtn4{
+      width: 130px;
+      height: 30px;
+     
+    }
+    .tool5{
+      width: 300px;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 150px;
+
+    }
+    .im5{
+      width: 100px;
+      height: 50px;
+      margin-left: 95px;
+      margin-top: 20px;
+    }
+    .T5{
+      font-size:15px ;
+      margin-left: -25px;
+    }
+    .tool5 p{
+      font-size: 12px;
+    }
+    .toolbtn5{
+      width: 130px;
+      height: 30px;
+      margin-left: 75px;
+    }
+    .tool6{
+      width: 300px;
+      height: 350px;
+      margin-left: 150px;
+      margin-top: 50px;
+    }
+    .im6{
+      width: 50px;
+      height: 50px;
+      margin-left: 121px;
+      margin-top: 20px;
+    }
+    .T6{
+      font-size:15px ;
+      margin-left: -6px;
+    }
+    .tool6 p{
+      font-size: 12px;
+    }
+    .toolbtn6{
+      width: 130px;
+      height: 30px;
+      margin-top: 30px;
+    }
+    .website{
+      height: 1000px;
+    }
+    .wb1{
+      margin-left: -100px;
+      visibility: hidden;
+    }
+    .problem{
+      margin-left: -100px;
+    }
+    .wb2{
+      margin-left: 20px;
+      width: 250px;
+    height: 300px;
+    }
+    .wb2 h2{
+      font-size: 15px;
+    }
+   
+    .wb3{
+      width: 250px;
+    height: 300px;
+      margin-left: 300px;
+    }
+    .wb3 h2{
+       font-size: 15px;
+    }
+    .B2{
+      margin-top: -10px;
+    }
+    .wb4{
+      margin-left: 20px;
+      margin-top: 130px;
+      width: 250px;
+    height: 300px;
+    }
+    .wb4 h2{
+       font-size: 15px;
+    }
+    .B3{
+      margin-top: 15px;
+    }
+    .wb5{
+      width: 250px;
+    height: 300px;
+      margin-left: 300px;
+    }
+    .wb5 h2{
+       font-size: 15px;
+    }
+    .stap1{
+        margin-top: -550px; 
+    }
+    .sp1{
+      font-size: 25px;
+    }
+    .sp2{
+      font-size: 12px;
+    }
+    .web1{
+      width: 200px;
+      height: 250px;
+     margin-left: 150px;
+     margin-top: 400px;
+   
+    
+    }
+    .stap2{
+    margin-left: 50px;
+    margin-top: -500px;
+    
+   }
+   .sp3{
+    font-size: 25px;
+   }
+   .sp4{
+    font-size: 12px;
+   }
+   .web2{
+    width: 200px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 600px;
+   }
+   .stap3{
+    margin-top: -400px;
+   
+   }
+   .sp5{
+    font-size: 25px;
+   }
+   .sp6{
+    font-size: 12px;
+   }
+   .web3{
+width: 200px;
+height: 250px ;
+margin-left: 200px;
+margin-top: 450px;
+   }
+   .stap4{
+    margin-left: 50px;
+    margin-top: -400px;
+   
+   }
+   .sp7{
+    font-size: 25px;
+   }
+   .sp8{
+    font-size: 12px;
+   }
+   .web4{
+    width: 200px;
+    height: 250px;
+    margin-left: 150px;
+    margin-top: 450px;
+   }
+   .stap5{
+    margin-top: -400px;
+   }
+   .web5{
+    width: 200px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 450px;
+   }
+   .video{
+    height: 500px;
+    margin-top: 300px;
+   }
+   .v12{
+    width: 500px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 30px;
+   }
+   .v2{
+    margin-left: 50px;
+   margin-top: 50px;
+   }
+   .v2 h2{
+    font-size: 20px;
+   }
+   .v2 p{
+    font-size: 12px;
+   }
+   .design{
+    margin-left: 10px;
+    visibility: hidden;
+   }
+   
+   .end{
+     height: 750px;
+   }
+   .ravindra{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 50px;
+   }
+   .kirade{
+    font-size: 20px;
+    margin-left:100px;
+    margin-top: -40px;
+   }
+   .into{
+    margin-left: 100px;
+   }
+   .kirade1{
+    margin-left: 100px;
+   }
+   .icon{
+    margin-left: 100px;
+   }
+   .ref{
+    margin-left: 100px;
+    margin-top: 100px;
+   }
+    }
+    @media only screen and (max-width: 450px) {
+      .navbar-nav{
+    margin-left:80px;
+    }
+    .nav-item{
+    margin-left:15px;
+    font-size: 10px;
+    } 
+    .contt{
+      margin-top: -490px;
+      margin-left: 25px;
+    }
+     .contt h2{
+      font-size: 25px;
+     } 
+     .ft{
+      font-size: 12px;
+      line-height: 20px;
+     }
+     .logo{
+      width: 200px;
+      height: 200px;
+      margin-top: 300px;
+      margin-left: 130px;
+     }
+    .tools1{
+    width: 300px;
+    height: 350px;
+      margin-left: 80px;
+      margin-top: 450px;
+    }
+    .T1{
+      font-size: 15px;
+      margin-left: 15px;
+    }
+    .tools1 p{
+      font-size: 11px;
+    }
+    .im1{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .toolbtn1{
+      width: 130px;
+      height: 30px;
+      margin-top: 25px;
+      margin-left: 80px;
+    }
+    .tools2{
+      width: 300px;
+      height: 350px;
+      margin-top: 50px;
+      margin-left: 80px;
+    }
+    .tools2 h2{
+      font-size: 15px;
+      margin-left: 15px;
+
+    }
+    .tools2 p{
+      font-size: 12px;
+    }
+    .im2{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .toolbtn2{
+      width: 130px;
+      height: 30px;
+    }
+    .tools33{
+      width: 300px;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 80px;
+
+    }
+    .im3{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .T3{
+      font-size:15px ;
+      margin-left: -10px;
+    }
+    .tools33 p{
+      font-size: 12px;
+    }
+    .toolbtn3{
+      width: 130px;
+      height: 30px;
+      margin-left: 80px;
+    }
+    .tool4{
+      width: 300px;
+      height: 350px;
+      margin-top: 50px;
+      margin-left: 80px;
+
+    }
+    .im4{
+      width: 50px;
+      height: 50px;
+      margin-left: 130px;
+      margin-top: 20px;
+    }
+    .T4{
+      font-size:15px ;
+      margin-left: -10px;
+    }
+    .tool4 p{
+      font-size: 12px;
+    }
+    .toolbtn4{
+      width: 130px;
+      height: 30px;
+     
+    }
+    .tool5{
+      width: 300px;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 80px;
+
+    }
+    .im5{
+      width: 100px;
+      height: 50px;
+      margin-left: 95px;
+      margin-top: 20px;
+    }
+    .T5{
+      font-size:15px ;
+      margin-left: -25px;
+    }
+    .tool5 p{
+      font-size: 12px;
+    }
+    .toolbtn5{
+      width: 130px;
+      height: 30px;
+      margin-left: 75px;
+    }
+    .tool6{
+      width: 300px;
+      height: 350px;
+      margin-left: 80px;
+      margin-top: 50px;
+    }
+    .im6{
+      width: 50px;
+      height: 50px;
+      margin-left: 121px;
+      margin-top: 20px;
+    }
+    .T6{
+      font-size:15px ;
+      margin-left: -6px;
+    }
+    .tool6 p{
+      font-size: 12px;
+    }
+    .toolbtn6{
+      width: 130px;
+      height: 30px;
+      margin-top: 30px;
+    }
+    .website{
+      height: 1750px;
+    }
+    .wb1{
+      width: 10px;
+      margin-left: 10px;
+      visibility: hidden;
+    }
+    .problem{
+      margin-left: 10px;
+      width: 10px;
+      visibility: hidden;
+    }
+    .wb2{
+      margin-left: 100px;
+      width: 250px;
+    height: 300px;
+    margin-top: 10px;
+    }
+    .wb2 h2{
+      font-size: 15px;
+    }
+   
+    .wb3{
+      width: 250px;
+    height: 300px;
+      margin-left: 100px;
+      margin-top: 80px;
+    }
+    .wb3 h2{
+       font-size: 15px;
+    }
+    .B2{
+      margin-top: -10px;
+    }
+    .wb4{
+      margin-left: 100px;
+      margin-top: 80px;
+      width: 250px;
+    height: 300px;
+    }
+    .wb4 h2{
+       font-size: 15px;
+    }
+    .B3{
+      margin-top: 15px;
+    }
+    .wb5{
+      width: 250px;
+    height: 300px;
+      margin-left: 100px;
+      margin-top: 80px;
+    }
+    .wb5 h2{
+       font-size: 15px;
+    }
+    .stap1{
+        margin-top: -550px; 
+    }
+    .sp1{
+      font-size: 25px;
+    }
+    .sp2{
+      font-size: 12px;
+    }
+    .web1{
+      width: 200px;
+      height: 250px;
+     margin-left: 150px;
+     margin-top: 400px;
+   
+    
+    }
+    .stap2{
+    margin-left: 50px;
+    margin-top: -500px;
+    
+   }
+   .sp3{
+    font-size: 25px;
+   }
+   .sp4{
+    font-size: 12px;
+   }
+   .web2{
+    width: 200px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 600px;
+   }
+   .stap3{
+    margin-top: -400px;
+   
+   }
+   .sp5{
+    font-size: 25px;
+   }
+   .sp6{
+    font-size: 12px;
+   }
+   .web3{
+width: 200px;
+height: 250px ;
+margin-left: 100px;
+margin-top: 450px;
+   }
+   .stap4{
+    margin-left: 50px;
+    margin-top: -500px;
+   
+   }
+   .sp7{
+    font-size: 25px;
+   }
+   .sp8{
+    font-size: 12px;
+   }
+   .web4{
+    width: 200px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 500px;
+   }
+   .stap5{
+    margin-top: -450px;
+   }
+   .web5{
+    width: 200px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 450px;
+   }
+   .video{
+    height: 500px;
+    margin-top: 300px;
+   }
+   .v12{
+    width: 360px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 30px;
+   }
+   .v2{
+    margin-left: 40px;
+    margin-top: 50px;
+   }
+   .v2 h2{
+    font-size: 20px;
+   }
+   .v2 p{
+    font-size: 12px;
+   }
+   .design{
+    margin-left: 10px;
+    visibility: hidden;
+   }
+   
+   .end{
+     height: 750px;
+   }
+   .ravindra{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 50px;
+   }
+   .kirade{
+    font-size: 20px;
+    margin-left:100px;
+    margin-top: -40px;
+   }
+   .into{
+    margin-left: 100px;
+   }
+   .kirade1{
+    margin-left: 100px;
+   }
+   .icon{
+    margin-left: 100px;
+   }
+   .ref{
+    margin-left: 100px;
+    margin-top: 100px;
+   }
+    }
+    @media only screen and (max-width: 375px) {
+      .navbar-nav{
+    margin-left:80px;
+    }
+    .nav-item{
+    margin-left:15px;
+    font-size: 10px;
+    } 
+    .contt{
+      margin-top: -430px;
+      margin-left: 25px;
+    }
+     .contt h2{
+      font-size: 20px;
+     } 
+     .ft{
+      font-size: 10px;
+      line-height: 20px;
+     }
+     .read{
+      width: 110px;
+      height: 20px;
+      font-size: 10px;
+     }
+     .logo{
+      width: 200px;
+      height: 200px;
+      margin-top: 250px;
+      margin-left: 100px;
+     }
+    .tools1{
+    width: 300px;
+    height: 350px;
+      margin-left: 40px;
+      margin-top: 400px;
+    }
+    .T1{
+      font-size: 15px;
+      margin-left: 15px;
+    }
+    .tools1 p{
+      font-size: 11px;
+    }
+    .im1{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .toolbtn1{
+      width: 130px;
+      height: 30px;
+      margin-top: 25px;
+      margin-left: 80px;
+    }
+    .tools2{
+      width: 300px;
+      height: 350px;
+      margin-top: 50px;
+      margin-left: 40px;
+    }
+    .tools2 h2{
+      font-size: 15px;
+      margin-left: 15px;
+
+    }
+    .tools2 p{
+      font-size: 12px;
+    }
+    .im2{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .toolbtn2{
+      width: 130px;
+      height: 30px;
+    }
+    .tools33{
+      width: 300px;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 40px;
+
+    }
+    .im3{
+      width: 50px;
+      height: 50px;
+      margin-left: 125px;
+      margin-top: 20px;
+    }
+    .T3{
+      font-size:15px ;
+      margin-left: -10px;
+    }
+    .tools33 p{
+      font-size: 12px;
+    }
+    .toolbtn3{
+      width: 130px;
+      height: 30px;
+      margin-left: 80px;
+    }
+    .tool4{
+      width: 300px;
+      height: 350px;
+      margin-top: 50px;
+      margin-left: 40px;
+
+    }
+    .im4{
+      width: 50px;
+      height: 50px;
+      margin-left: 130px;
+      margin-top: 20px;
+    }
+    .T4{
+      font-size:15px ;
+      margin-left: -10px;
+    }
+    .tool4 p{
+      font-size: 12px;
+    }
+    .toolbtn4{
+      width: 130px;
+      height: 30px;
+     
+    }
+    .tool5{
+      width: 300px;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 40px;
+
+    }
+    .im5{
+      width: 100px;
+      height: 50px;
+      margin-left: 95px;
+      margin-top: 20px;
+    }
+    .T5{
+      font-size:15px ;
+      margin-left: -25px;
+    }
+    .tool5 p{
+      font-size: 12px;
+    }
+    .toolbtn5{
+      width: 130px;
+      height: 30px;
+      margin-left: 75px;
+    }
+    .tool6{
+      width: 300px;
+      height: 350px;
+      margin-left: 40px;
+      margin-top: 50px;
+    }
+    .im6{
+      width: 50px;
+      height: 50px;
+      margin-left: 121px;
+      margin-top: 20px;
+    }
+    .T6{
+      font-size:15px ;
+      margin-left: -6px;
+    }
+    .tool6 p{
+      font-size: 12px;
+    }
+    .toolbtn6{
+      width: 130px;
+      height: 30px;
+      margin-top: 30px;
+    }
+    .website{
+      height: 1750px;
+    }
+    .wb1{
+      width: 10px;
+      margin-left: 10px;
+      visibility: hidden;
+    }
+    .wb2{
+      margin-left: 60px;
+      width: 250px;
+    height: 300px;
+    margin-top: 10px;
+    }
+    .wb2 h2{
+      font-size: 15px;
+    }
+   
+    .wb3{
+      width: 250px;
+    height: 300px;
+      margin-left: 60px;
+      margin-top: 80px;
+    }
+    .wb3 h2{
+       font-size: 15px;
+    }
+    .B2{
+      margin-top: -10px;
+    }
+    .wb4{
+      margin-left: 60px;
+      margin-top: 80px;
+      width: 250px;
+    height: 300px;
+    }
+    .wb4 h2{
+       font-size: 15px;
+    }
+    .B3{
+      margin-top: 15px;
+    }
+    .wb5{
+      width: 250px;
+    height: 300px;
+      margin-left: 60px;
+      margin-top: 80px;
+    }
+    .wb5 h2{
+       font-size: 15px;
+    }
+    .stap1{
+        margin-top: -400px; 
+        margin-left: 12px;
+    }
+    .sp1{
+      font-size: 15px;
+    }
+    .sp2{
+      font-size: 10px;
+    }
+    .web1{
+      width: 150px;
+      height: 200px;
+     margin-left: 100px;
+     margin-top: 300px;
+   
+    
+    }
+    .stap2{
+    margin-left: 12px;
+    margin-top: -430px;
+    
+   }
+   .sp3{
+    font-size: 15px;
+   }
+   .sp4{
+    font-size: 10px;
+   }
+   .web2{
+    width: 150px;
+    height: 200px;
+    margin-left: 120px;
+    margin-top: 500px;
+   }
+   .stap3{
+    margin-top: -350px;
+    margin-left: 12px;
+   
+   }
+   .sp5{
+    font-size: 15px;
+   }
+   .sp6{
+    font-size: 10px;
+   }
+   .web3{
+width: 150px;
+height: 200px ;
+margin-left: 100px;
+margin-top: 400px;
+   }
+   .stap4{
+    margin-left: 12px;
+    margin-top: -360px;
+   
+   }
+   .sp7{
+    font-size: 15px;
+   }
+   .sp8{
+    font-size: 10px;
+   }
+   .web4{
+    width: 150px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 400px;
+   }
+   .stap5{
+    margin-top: -350px;
+    margin-left: 12px;
+   }
+   .web5{
+    width: 150px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 350px;
+   }
+   .video{
+    height: 500px;
+    margin-top: 300px;
+   }
+   .v12{
+    width: 360px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 0px;
+   }
+   .v2{
+    margin-left: 20px;
+    margin-top: 40px;
+   }
+   .v2 h2{
+    font-size: 20px;
+   }
+   .v2 p{
+    font-size: 12px;
+   }
+   .design{
+    margin-left: 10px;
+    visibility: hidden;
+   }
+   
+   .end{
+     height: 750px;
+   }
+   .ravindra{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 50px;
+   }
+   .kirade{
+    font-size: 20px;
+    margin-left:100px;
+    margin-top: -40px;
+   }
+   .into{
+    margin-left: 100px;
+   }
+   .kirade1{
+    margin-left: 100px;
+   }
+   .icon{
+    margin-left: 100px;
+   }
+   .ref{
+    margin-left: 100px;
+    margin-top: 100px;
+   }
+    }
